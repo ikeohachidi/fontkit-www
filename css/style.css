@@ -6,7 +6,7 @@
 button.btn-primary,
 a.btn-primary {
     background-color: #2ECC71 !important;
-    font-family: "rubik", sans-serif !important;
+    font-family: "manrope", sans-serif !important;
     border-radius: 3px !important;
     color: #000;
     border: none;
@@ -14,12 +14,12 @@ a.btn-primary {
 }
 
 p, a {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 nav a {
     color: #fff;
-    font-family: "rubik", sans-serif !important;
+    font-family: "manrope", sans-serif !important;
 }
 
 .header {
@@ -46,7 +46,7 @@ nav a {
 }
 
 .landing p {
-    font-family: "rubik", sans-serif;
+    font-family: "manrope", sans-serif;
     font-weight: 300;
 }
 
@@ -68,13 +68,14 @@ nav a {
 }
 
 .content h5 {
-    font-family: "prata", serif;
+    font-family: "manrope", sans-serif;
+    font-weight: bold;
     margin-bottom: 20px;
 }
 
 .content p {
-    font-family: "rubik", sans-serif;
-    font-size: 14px;
+    font-family: "manrope", sans-serif;
+    font-size: 16px;
     line-height: 187.5%;
 }
 
